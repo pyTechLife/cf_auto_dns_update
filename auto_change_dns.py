@@ -6,12 +6,12 @@ import sys
 import pandas as pd
 
 
-api_key = 'birOGxNkdSO2E51v6cCJvIpqXtdEp59AZpdXS6aw' #your cloudflare token
-hostname = 'mci1.askmojtaba.info' #your subdomain 
+api_key = '####' #your cloudflare token
+hostname = '###' #your subdomain 
 # ip_address = '1.2.3.7'
 ip_list = [] 
 Number_of_subdomains = 10 #The number of domains that need to be set.
-subdomains = 'mci' # Your subdomain is determined here, for example, you can use mtn for Irancell
+subdomains = 'mtn' # Your subdomain is determined here, for example, you can use mtn for Irancell
 
 
 if __name__ == "__main__":
